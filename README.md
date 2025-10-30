@@ -20,14 +20,6 @@ You can include a link to your project presentation or a brief summary.
 
 [Link to Project Presentation](https://onionreads.com/wp-content/uploads/2023/11/hackcbs-final-ppt.pdf)
 
-## 👥 Team Members
-
-Introduce the team members and their roles in the project:
-
-- **[Adarsh Maurya](https://github.com/4darsh-Dev)** - BackEnd Developer
-- **[Aman Singh](https://github.com/amansingh494)** - FrontEnd Developer
-- **[Dharmesh Tanwar](https://github.com/DharmeshTanwar56)** - UI/UX Designer
-
 ## 📄 License
 
 This project is licensed under the [License Name](link-to-license) - e.g., MIT License.
@@ -77,7 +69,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at adarsh@onionreads.com
+If you have any feedback, please reach out to us at aashish8238@gmail.com
 
 
 ## Documentation
